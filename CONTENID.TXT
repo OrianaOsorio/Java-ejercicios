@@ -1,0 +1,52 @@
+Fichero		Descripción
+------------------------------------------------------
+alberto2.java   Codigo que simula la interacci¢n del
+                ordenador con el usuario (IA).
+
+binaria.java	Búsqueda binaria dentro de un vector.
+
+burbuja.java	El conocido método de ordenación de la
+		burbuja (de gran simplicidad).
+
+cola.java	Construcción de una cola mediante un
+		array (vector).
+
+euclides.java	Un sencillo ejemplo del algoritmo de 
+		euclides. (sucesión de factoriales).
+
+gato.java	Código del popular juego del 3 en raya.
+
+horoscopo.java	Esta aplicación da información al usuario
+		según la fecha introducida. Para ello,
+		utiliza una tabla de Hash.
+
+matriz1.java	Busqueda secuencial dentro de un vector.
+
+matriz2.java	Muestra una matriz introducida por el
+		usuario de forma normal y traspuesta.
+
+pi.java		Calcular el valor de PI con un nivel de
+		precisión especificado.
+
+pila.java	Construcción de una pila mediante un
+		array (vector).
+
+prog2.java	Indica al usuario si el número introducido
+		es par.
+
+prog3.java	Codigo para comparar el valor de dos
+		numeros.
+
+serie1.java	Codigo que muestra la serie de la forma
+		an=3*n
+
+serie2.java	Codigo que muestra la serie de la forma
+		an=1/n^2
+
+serie3.java	Codigo que muestra la serie de la forma
+		de numero naturales
+
+x.java		Programa que muestra la serie de x^n
+
+encripta.java	Código de encriptación de una secuencia
+		de caracteres.
